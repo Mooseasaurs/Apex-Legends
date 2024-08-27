@@ -1,9 +1,8 @@
-![[ArtOfWar 2.pdf]]
 
 # Now? What does this mean.
-aka. ![[Pasted image 20240827100307.png]]
 
-Just like I talked about in [[Observational Learning]] The act of Observational Learning isn't just for watching someone do something, you can also adopt tactics and skills from reading.
+
+Just like I talked about in Observational Learning The act of Observational Learning isn't just for watching someone do something, you can also adopt tactics and skills from reading.
 
 I've been reading The Art of War recently, because come on if it can help Technoblade in Minecraft PvP and the Potato War then it can be applied to fps shooters, like Apex.
 
